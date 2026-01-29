@@ -33,6 +33,7 @@ build/
 .vscode/
 
 # Frontend (React/Node)
+frontend/
 frontend/node_modules/
 frontend/build/
 frontend/.env.local
